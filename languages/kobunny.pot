@@ -1,0 +1,91 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kobunny\n"
+"POT-Creation-Date: 2021-10-06 13:48+0100\n"
+"PO-Revision-Date: 2021-01-25 14:30+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_GB\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/ngg_kobunny_admin.php:89
+msgid "Save"
+msgstr ""
+
+#: includes/ngg_kobunny_admin.php:111
+msgid "You should delete ALL knockoutbunny_results posts when creating a new game"
+msgstr ""
+
+#: includes/ngg_kobunny_admin.php:111
+msgid " - you have "
+msgstr ""
+
+#: includes/ngg_kobunny_admin.php:111
+msgid " draft posts"
+msgstr ""
+
+#: includes/ngg_kobunny_admin.php:111
+msgid " and "
+msgstr ""
+
+#: includes/ngg_kobunny_admin.php:111
+msgid " trashed posts"
+msgstr ""
+
+#: includes/ngg_kobunny_admin.php:131
+msgid "Choose BackGround Color"
+msgstr ""
+
+#: includes/ngg_kobunny_admin.php:138
+msgid "Choose ForeGround Color"
+msgstr ""
+
+#: includes/ngg_kobunny_admin.php:145
+msgid "Enter Category"
+msgstr ""
+
+#: includes/ngg_kobunny_admin.php:154
+#, php-format
+msgid "Enter Entry %1$s here"
+msgstr ""
+
+#: includes/ngg_kobunny_admin.php:166
+msgid "Use shortcode [knockoutbunny] in any Page/Post to publish your game"
+msgstr ""
+
+#: includes/ngg_kobunny_admin.php:203 includes/ngg_kobunny_admin.php:213
+#: includes/ngg_kobunny_admin.php:222 includes/ngg_kobunny_admin.php:231
+#: includes/ngg_kobunny_admin.php:240 includes/ngg_kobunny_admin.php:249
+#: includes/ngg_kobunny_admin.php:258 includes/ngg_kobunny_admin.php:267
+#: includes/ngg_kobunny_admin.php:276
+msgid "max length 20 alphanumeric incl space"
+msgstr ""
+
+#: includes/ngg_kobunny_admin.php:308
+msgid "Incorrect value for tournie entered!"
+msgstr ""
+
+#: includes/ngg_kobunny_admin.php:321
+#, php-format
+msgid "Incorrect value entered for team %1$s!"
+msgstr ""
+
+#: includes/ngg_kobunny_playiframe.php:14
+msgid "Choose your favourite"
+msgstr ""
+
+#: includes/ngg_kobunny_playiframe.php:25
+msgid "PLAY"
+msgstr ""
+
+#: knockoutbunny.php:111
+msgid "My Favourite "
+msgstr ""

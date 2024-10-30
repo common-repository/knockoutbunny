@@ -1,0 +1,74 @@
+<style type="text/css">
+	html,
+	body {
+	}
+	#ngg_kobunny_gametitle {
+		font-family: "Arial", sans-serif;
+		margin-top:0px;
+		margin-bottom:0px;
+		font-size: 1.4em;
+		text-align: center;
+	}
+	#ngg_kobunny_playgamesection  {
+		color: white;
+		margin-top:0px;
+		margin-bottom:0px;
+		height:650px;
+	}
+	.ngg_kobunny_metroBtn {
+		margin-bottom:12px;
+		margin-top:12px;
+		font-size: 2em;
+		padding: 5px;
+		display: inline-block;
+		cursor: pointer;
+		border: none;
+	}
+	#ngg_kobunny_match {
+		margin-top: 20px;
+		border-style: solid;
+		width: 95%;
+		color: black;
+	}
+	.ngg_kobunny_TeamInput {
+		background-color: white;
+		width: 45%;
+	}
+	.ngg_kobunny_Match_Team {
+		cursor:pointer;
+		margin-top: 5px;
+		margin-bottom: 5px;
+		width: 45%;
+		padding: 5px;
+	}
+	.ngg_kobunny_tournieresults {
+		width: 90%;
+		border-style: solid;
+	}
+	.ngg_kobunny_fixture {
+		display:inline;		
+	}
+
+
+
+
+
+
+@media only screen and (max-width: 400px) {
+  /* For mobile: */
+  	#ngg_kobunny_playgamesection  {
+		color: white;
+		margin-top:0px;
+		margin-bottom:0px;
+		height:700px;
+	}
+	.ngg_kobunny_fixture {
+		display:block;		
+	}
+}
+
+@media only screen and (orientation: landscape) {
+    /* Dont display if Landscape */
+
+}
+</style>
